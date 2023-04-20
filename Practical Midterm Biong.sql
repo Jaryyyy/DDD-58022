@@ -1,0 +1,1 @@
+computerSELECT * FROM computer.models;
